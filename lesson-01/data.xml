@@ -4,9 +4,9 @@
  <age>20</age>
  <major>Computer Science</major>
  <GPA>3.7</GPA>
- <Courses>
-  <Course>Programming Fundamentals</Course>
-  <Course>Data Structures</Course>
-  <Course>Web Development</Course>
- </Courses>
+ <courses>
+  <course>Programming Fundamentals</course>
+  <course>Data Structures</course>
+  <course>Web Development</course>
+ </courses>
 </person>
